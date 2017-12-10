@@ -8,6 +8,7 @@ properties([
       upstreamProjects: 'https://github.com/karthikveridic/type2'
     )])])
 
+
 pipeline {
     agent any 
 
